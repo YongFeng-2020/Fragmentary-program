@@ -1,6 +1,10 @@
 # Fragmentary-program
 some fragmentary program during project and learning
 
+├── edges_method.py                 //opencv下各种边缘检测算子的实现
+
+├── VOSK_save.py                    //语音转文字VOSK工具的调用
+
 ├── Multi-tracker										//opencv下多目标跟踪器相关代码
 
 │   ├── multi_tracker_coordinate.py		//给定坐标创建跟踪器（实际使用时可由检测结果提供）
